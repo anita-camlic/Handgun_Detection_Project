@@ -1,4 +1,4 @@
-![alt text](https://github.com/[anita_camlic]/[Weapon_Detection_Project]/blob/[main]/Images/surveillance.jpg?raw=true)
+![Alt text](/Images/surveillance.jpg)
 
 # Firearm Image Classification
 `Author: Anita Camlic`
