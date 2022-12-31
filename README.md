@@ -43,6 +43,14 @@ I did not include the data in the github because it was too large to fit. Below 
 
 Convolutional Neural Networks were used to try and create the best classifier for these images. Many hyperparameters were tweaked and different architectures were tried. See more in Final_Notebook.
 
+# Visuals 
+![plot](./Visuals/iterative_modeling.png)
+Here are the modeling changes that improved my validation score the most.
+
+![plot](./Visuals/final_model_accuracy.png)
+Here are the graphs of the loss and accuracy for training and validation data for my final model.
+
+
 # Conclusion
 ### Conclusions and Recommendations
 We conclude with an accuracy score of `0.7078189253807068` and a loss of `1.718071460723877`. Unfortunately, these models did not work as well as I would have wished on unseen data. However, I do believe that with more time I will be able to bring that accuracy score up. It is truly important that the accuracy score is as high as it can be for what it's intended use is.  
