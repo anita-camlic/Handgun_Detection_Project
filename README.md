@@ -44,23 +44,11 @@ I did not include the data in the github because it was too large to fit. Below 
 Convolutional Neural Networks were used to try and create the best classifier for these images. Many hyperparameters were tweaked and different architectures were tried. See more in Final_Notebook.
 
 # Visuals 
-<figure>
-  <img
-  src="./Visuals/iterative_modeling.png"
-  alt="Here are the modeling changes that improved my validation score the most.">
-  <figcaption>iterative_modeling</figcaption>
-</figure>
 
 ![plot](./Visuals/iterative_modeling.png)
 <br />
 Here are the modeling changes that improved my validation score the most.
 
-<figure>
-  <img
-  src="./Visuals/final_model_accuracy.png"
-  alt="Here are the graphs of the loss and accuracy for training and validation data for my final model.">
-  <figcaption>final_accuracy</figcaption>
-</figure>
 
 ![plot](./Visuals/final_model_accuracy.png)
 <br />
@@ -110,3 +98,18 @@ The last thing I am interested in pursuing in the future is Object Detection or 
 Another area of interest would be multi class classification. So, for example, feeding a model images of all types of handheld objects and having it differentiate between the different objects. I think that would be a valuable area of study because it takes this problem a step further.
 
 ***
+
+## For More Information
+Please review my full analysis in my Jupyter Notebook or my presentation.
+
+For any additional questions, please contact me at anitacamlic@gmail.com or www.linkedin.com/in/anitacamlic
+
+
+#### Repository Structure
+├── README.md                                         <- The top-level README for reviewers of this project
+├── Final_Notebook.ipynb                              <- Narrative documentation of analysis in Jupyter notebook
+├── PRESENTATION_HERE                                 <- PDF version of project presentation
+├── LICENSE                                           <- License used for this project
+├── Visuals                                           <- Visuals used in project
+├── Images                                            <- Images used in project
+└── Working_Notebooks                                 <- Scratch notebooks                        
