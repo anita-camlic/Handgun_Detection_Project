@@ -37,6 +37,9 @@ I did not include the data in the github because it was too large to fit. Below 
 
 [All Weapon Detection Data](https://dasci.es/transferencia/open-data/24705/)
 
+
+For reproducability purposes, I have the environment I did all my work in listed in my repository under environment.yml.
+
 ***
 
 # Methods
@@ -112,4 +115,5 @@ For any additional questions, please contact me at anitacamlic@gmail.com or www.
 ├── LICENSE                                           <- License used for this project
 ├── Visuals                                           <- Visuals used in project
 ├── Images                                            <- Images used in project
+├── environment.yml                                   <- Environment for Reproducability
 └── Working_Notebooks                                 <- Scratch notebooks                        
