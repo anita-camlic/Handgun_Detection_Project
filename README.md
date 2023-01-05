@@ -109,11 +109,13 @@ For any additional questions, please contact me at anitacamlic@gmail.com or www.
 
 
 #### Repository Structure
+```
 ├── README.md                                         <- The top-level README for reviewers of this project
 ├── Final_Notebook.ipynb                              <- Narrative documentation of analysis in Jupyter notebook
-├── PRESENTATION_HERE                                 <- PDF version of project presentation
+├── presentation.pdf                                  <- PDF version of project presentation
 ├── LICENSE                                           <- License used for this project
 ├── Visuals                                           <- Visuals used in project
 ├── Images                                            <- Images used in project
 ├── environment.yml                                   <- Environment for Reproducability
-└── Working_Notebooks                                 <- Scratch notebooks                        
+└── Working_Notebooks                                 <- Scratch notebooks     
+```
